@@ -15,6 +15,13 @@ A simulation-based Operating Systems project that demonstrates priority inversio
 - `simulation.html`: Interactive web-based simulation for quick demonstrations.
 - `Makefile`: Build system for GCC.
 
+## Web Demo
+You can view a live simulation of the priority inversion scenarios by opening `simulation.html` in any modern web browser. It provides a visual Gantt chart and event logs for:
+- Classic Priority Inversion
+- Priority Inheritance Protocol (PIP)
+- Priority Ceiling Protocol (PCP)
+- Preemptive Scheduling
+
 ## Getting Started
 
 ### Prerequisites
